@@ -1,6 +1,6 @@
 # 👾 AtomixClub
 
-### Reverse Engineering • Malware Analysis • Python Internals
+### Reverse Engineering • Pythonholic • BTSD (Bytecode-Traumatic Stress Disorder)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AtomixClub-181717?style=for-the-badge&logo=github)](https://github.com/AtomixClub)
 [![Twitter](https://img.shields.io/badge/Twitter-@AtomixClub-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/AtomixClub)
